@@ -1,5 +1,5 @@
 # Presentasjon
 
-https://danielfabiog.github.io/Presentasjon.html
+[Presentasjon](https://danielfabiog.github.io/Presentasjon\Presentasjon.html)
 
-https://danielfabiog.github.io/Presentasjon_liten_skrift.html
+[Presentasjon_liten_skrift](https://danielfabiog.github.io/Presentasjon\Presentasjon_liten_skrift.html)
