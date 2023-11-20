@@ -388,7 +388,7 @@ summary(model_2)
 :::
 :::
 
-## Konklusjon om nullhypotesen holder
+## Forts
 
 Sjekker først den enkle regresjonsanalysen
 
@@ -435,7 +435,7 @@ mroz %>%
 :::
 :::
 
-## Konklusjon om nullhypotesen holder
+## Forts
 
 For multippel regresjon
 
