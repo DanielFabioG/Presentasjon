@@ -388,7 +388,7 @@ summary(model_2)
 :::
 :::
 
-## Multippel regresjon forts
+## Forts
 
 Sjekker først den enkle regresjonsanalysen
 
@@ -435,7 +435,7 @@ mroz %>%
 :::
 :::
 
-## Multippel regresjon forts
+## Forts
 
 For multippel regresjon
 
